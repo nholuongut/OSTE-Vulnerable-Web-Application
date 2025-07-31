@@ -68,7 +68,7 @@ We welcome contributions to enhance and improve this project.
 
 either by donation: 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
+![](Donate.jpg)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 or by your power of mind  To contribute, please follow these guidelines:
